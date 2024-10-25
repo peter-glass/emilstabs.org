@@ -39,7 +39,7 @@ Let my inspiration flow in
 token rhyme suggesting rhythm
                   C  
 that will not for sake me till
-   F              C   F       C  Am9 Dm9
+   F              C   F       C  Fmaj7 Cmaj7
 tale is told and done
 
   Lady With A Fan Ending
@@ -235,7 +235,7 @@ E----------
 
 
 
-E             A    A7             D
+E             A    A7             D  Dmaj7
       Inspiration, move me brightly
 E
 Light the song with sense and color;
@@ -258,7 +258,7 @@ to get to Terrapin.
 
 E        A              E
 Counting stars by candlelight,
-       C#m             D
+       C#m7             D
 all are dim, but one is bright:
    E
 the spiral light of Venus, rising
@@ -266,7 +266,7 @@ A
 first and shining best,
 E   A                  E
 oh, from the northwest corner of a
-C#m/G#  Gmaj7     D/F#  Dmaj7
+C#m7/G#  Gmaj7     D/F#  Dmaj7
 brandnew crescent moon
      E              A         D  D#m7-5
 while crickets and cicadas sing
@@ -318,6 +318,15 @@ E----------------------------------------
 
 
    Am       G         C          G        D    
+
+Rather than tab, I'll just list the chords in this repeated section:
+
+(G) Am - G - Am
+(G) Am - G - C - Em - (C) - D (note: the Em - C might be Bm - G, I'm not sure)
+(G) Am - G - Am
+(G) Am - G - D -C - Am    E - Eb - D
+
+The chords in parens are more like pick-up notes than full chords
  
 
 
